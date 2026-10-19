@@ -121,6 +121,14 @@ Participación en un equipo dedicado al **desarrollo de soluciones digitales par
 
 **[🌐 Ver creaciones de Kora Digital Solutions →](https://koradigitalsolutions.com/#creaciones)**
 
+### 🚨 ACESLAN · Aplicación de seguridad y emergencias
+
+Participación en el desarrollo de **ACESLAN**, una aplicación móvil creada en colaboración con el **Consorcio de Seguridad y Emergencias de Lanzarote** y alumnado del **CIFP Zonzamas**. El proyecto permite comunicar incidencias con imágenes y geolocalización, además de difundir alertas, recomendaciones y noticias relacionadas con la seguridad.
+
+**Proyecto desarrollado en equipo, presentado públicamente en mayo de 2026 en fase beta.**
+
+**[📰 Leer noticia sobre la presentación de ACESLAN →](https://www.diariodelanzarote.com/noticia/el-consorcio-de-seguridad-y-emergencias-de-lanzarote-presenta-aceslan-la-nueva-aplicaci%C3%B3n)**
+
 ### 📱 HairCloud · Aplicación multiplataforma
 
 Aplicación de **gestión de citas para peluquerías** que integra una interfaz móvil, servicios backend y una base de datos relacional.
