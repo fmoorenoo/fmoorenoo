@@ -129,6 +129,8 @@ Participación en el desarrollo de **ACESLAN**, una aplicación móvil creada en
 
 **[📰 Leer noticia sobre la presentación de ACESLAN →](https://www.diariodelanzarote.com/noticia/el-consorcio-de-seguridad-y-emergencias-de-lanzarote-presenta-aceslan-la-nueva-aplicaci%C3%B3n)**
 
+**[📰 Lancelot Digital · ACESLAN moderniza la seguridad y las emergencias en Lanzarote →](https://www.lancelotdigital.com/lanzarote/aceslan-la-nueva-app-que-moderniza-la-seguridad-y-las-emergencias-en-lanzarote)**
+
 ### 📱 HairCloud · Aplicación multiplataforma
 
 Aplicación de **gestión de citas para peluquerías** que integra una interfaz móvil, servicios backend y una base de datos relacional.
