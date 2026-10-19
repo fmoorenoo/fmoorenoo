@@ -113,31 +113,11 @@ He participado en proyectos tecnológicos durante mis prácticas profesionales y
 
 ## 🚀 Experiencia y proyectos destacados
 
-### 🌐 Kora Digital Solutions · Trabajo en equipo
-
-Participación en un equipo dedicado al **desarrollo de soluciones digitales para clientes reales**, con sitios web y funcionalidades adaptadas a diferentes necesidades.
-
-**Los trabajos enlazados son proyectos del equipo, no necesariamente desarrollos individuales.**
-
-**[🌐 Ver creaciones de Kora Digital Solutions →](https://koradigitalsolutions.com/#creaciones)**
-
-### 🚨 ACESLAN · Aplicación de seguridad y emergencias
-
-Participación en el desarrollo de **ACESLAN**, una aplicación móvil creada en colaboración con el **Consorcio de Seguridad y Emergencias de Lanzarote** y alumnado del **CIFP Zonzamas**. El proyecto permite comunicar incidencias con imágenes y geolocalización, además de difundir alertas, recomendaciones y noticias relacionadas con la seguridad.
-
-**Proyecto desarrollado en equipo, presentado públicamente en mayo de 2026 en fase beta.**
-
-**[📰 Leer noticia sobre la presentación de ACESLAN →](https://www.diariodelanzarote.com/noticia/el-consorcio-de-seguridad-y-emergencias-de-lanzarote-presenta-aceslan-la-nueva-aplicaci%C3%B3n)**
-
-**[📰 Lancelot Digital · ACESLAN moderniza la seguridad y las emergencias en Lanzarote →](https://www.lancelotdigital.com/lanzarote/aceslan-la-nueva-app-que-moderniza-la-seguridad-y-las-emergencias-en-lanzarote)**
-
-### 📱 HairCloud · Aplicación multiplataforma
-
-Aplicación de **gestión de citas para peluquerías** que integra una interfaz móvil, servicios backend y una base de datos relacional.
-
-**Stack:** Kotlin · Jetpack Compose · Flask · PostgreSQL
-
-**[💻 Explorar código de HairCloud →](https://github.com/fmoorenoo/HairCloud)**
+| Proyecto | Descripción y participación | Enlaces |
+| :--- | :--- | :--- |
+| **🌐 Kora Digital Solutions**<br><sub>Trabajo en equipo</sub> | Participación en un equipo dedicado al **desarrollo de soluciones digitales para clientes reales**, con sitios web y funcionalidades adaptadas a diferentes necesidades.<br><br><sub>Los trabajos enlazados son proyectos del equipo, no necesariamente desarrollos individuales.</sub> | **[🌐 Ver creaciones de Kora →](https://koradigitalsolutions.com/#creaciones)** |
+| **🚨 ACESLAN**<br><sub>Aplicación de seguridad y emergencias</sub> | Participación en el desarrollo de una **aplicación móvil** creada en colaboración con el **Consorcio de Seguridad y Emergencias de Lanzarote** y alumnado del **CIFP Zonzamas**. Permite comunicar incidencias con imágenes y geolocalización, además de difundir alertas, recomendaciones y noticias relacionadas con la seguridad.<br><br><sub>Proyecto desarrollado en equipo y presentado públicamente en mayo de 2026 en fase beta.</sub> | **[📰 Diario de Lanzarote](https://www.diariodelanzarote.com/noticia/el-consorcio-de-seguridad-y-emergencias-de-lanzarote-presenta-aceslan-la-nueva-aplicaci%C3%B3n)**<br><br>**[📰 Lancelot Digital](https://www.lancelotdigital.com/lanzarote/aceslan-la-nueva-app-que-moderniza-la-seguridad-y-las-emergencias-en-lanzarote)** |
+| **📱 HairCloud**<br><sub>Aplicación multiplataforma</sub> | Aplicación de **gestión de citas para peluquerías** con interfaz móvil, servicios backend y base de datos relacional.<br><br>**Stack:** Kotlin · Jetpack Compose · Flask · PostgreSQL | **[💻 Ver código en GitHub →](https://github.com/fmoorenoo/HairCloud)** |
 
 <sub>Próximamente: selección de más proyectos documentados de mis repositorios públicos.</sub>
 
