@@ -27,15 +27,89 @@ He participado en proyectos tecnológicos durante mis prácticas profesionales y
 
 > 🎯 **Objetivo profesional:** incorporarme a un equipo de desarrollo como **Full Stack Developer Junior**, o en posiciones de frontend, backend o desarrollo multiplataforma.
 
-## 🧰 Stack tecnológico
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-| Área | Tecnologías |
-| :-- | :-- |
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend y APIs** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat-square) |
-| **Multiplataforma** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
-| **Bases de datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+## 🛠️ Skills
+
+### 💻 Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)&nbsp;
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)&nbsp;
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+### 🧠 Development & Frameworks
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)&nbsp;
+![Retrofit2](https://img.shields.io/badge/Retrofit2-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)&nbsp;
+![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat&logo=fastapi&logoColor=white)
+
+### 🗃️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)&nbsp;
+![PgAdmin4](https://img.shields.io/badge/PgAdmin4-336791?style=flat&logo=postgresql&logoColor=white)
+
+### ⚙️ Tools & Technologies
+
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+</td>
+<td width="40%" valign="top">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fmoorenoo&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true" alt="Estadísticas de GitHub de Fernando" />
+  <br/><br/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fmoorenoo&theme=github-dark-blue&hide_border=false" alt="Racha de contribuciones de GitHub de Fernando" />
+</p>
+
+## 🎯 Main Focus
+
+![Full Stack](https://img.shields.io/badge/Full_Stack_Development-22252C?style=flat&logo=googlechrome&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile_Apps-22252C?style=flat&logo=android&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_%26_REST_APIs-22252C?style=flat&logo=fastapi&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-22252C?style=flat&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Experiencia y proyectos destacados
 
