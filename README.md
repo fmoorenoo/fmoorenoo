@@ -95,7 +95,7 @@ He participado en proyectos tecnológicos durante mis prácticas profesionales y
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fmoorenoo&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true" alt="Estadísticas de GitHub de Fernando" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fmoorenoo&theme=github_dark" alt="Estadísticas de GitHub de Fernando" />
   <br/><br/>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fmoorenoo&theme=github-dark-blue&hide_border=false" alt="Racha de contribuciones de GitHub de Fernando" />
 </p>
